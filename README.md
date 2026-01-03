@@ -1,20 +1,37 @@
-<<<<<<< HEAD
-# React + Vite
+Ye Weather App React JS mein banai gayi hai jo real-time weather information show karti hai. Is app ki madad se user kisi bhi city ka temperature, weather condition, humidity aur wind speed check kar sakta hai.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
 
-Currently, two official plugins are available:
+🌍 City ke naam se weather search
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌡 Real-time temperature display
 
-## React Compiler
+☁ Weather condition (Clear, Cloudy, Rain etc.)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+💧 Humidity & 🌬 Wind speed
 
-## Expanding the ESLint configuration
+⚡ Fast & responsive UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Weather-App
->>>>>>> 8fe34455cfbeba5ec30db68fbd33966aaea6a5a7
+🛠 Technologies Used
+
+React JS
+
+JavaScript (ES6)
+
+CSS
+
+Axios / Fetch API
+
+Weather API (OpenWeatherMap)
+
+🌐 Live Demo
+
+👉 muzammil-weatherapp.netlifiy.app
+
+👨‍💻 Author
+
+Muzammil Islam
+
+📄 License
+
+Ye project learning purpose ke liye banaya gaya hai.
